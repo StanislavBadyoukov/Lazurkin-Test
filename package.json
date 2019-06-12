@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "U may start from index.html \r Pics will be added soon.\r Some stuff had been taken from additional sources.\r Really-really need to learn flexboxes.",
   "main": "index.js",
-  "dependencies": {
-    "prettier-eslint": "^8.8.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.16.0"
+    "eslint-plugin-import": "^2.16.0",
+    "prettier-eslint": "^8.8.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
