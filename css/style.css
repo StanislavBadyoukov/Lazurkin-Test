@@ -26,6 +26,11 @@ img {
 .fix {
   overflow: hidden;
 }
+.serviceName {
+  text-align: center;
+  position: relative;
+  padding-left: 80%;
+}
 h1,
 h2,
 h3,
@@ -83,6 +88,7 @@ body {
 }
 
 .mainmenu-area {
+  margin-top: 10%;
   background: none repeat scroll 0 0 #b8860b;
   font-family: "Roboto Condensed", sans-serif;
   text-transform: uppercase;
@@ -321,6 +327,9 @@ body {
 }
 
 .product-f-image {
+  position: relative;
+}
+.subjImage {
   position: relative;
 }
 .product-hover {

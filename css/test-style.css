@@ -1,0 +1,8 @@
+.test-field {
+  margin-left: 15%;
+  border: 4px double black;
+  border-color: #808000;
+  background-color: #b8860b;
+  border-style: solid;
+  width: 70%;
+}
